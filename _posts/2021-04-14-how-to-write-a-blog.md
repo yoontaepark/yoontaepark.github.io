@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "넘파이 ndarray (ndarray)"
+---
+
 #1. 넘파이 ndarray (ndarray)
 
 ** 요약:
