@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "문송한 과학자"
   avatar           : "/assets/images/profile/programmer.png" # 프로필 이미지
-  bio              : "꾸준히 공부하는 Data Scientist 입니다. <br> 블로그 포스트 글에서 잘못된 부분이나 수정했으면 하는 부분, 적극적으로 댓글 남겨주신다면 감사하겠습니다."
+  bio              : "꾸준히 공부하는 블로그입니다. <br> 주로 데이터사이언스 관련 글을 게시할 예정입니다."
   location         : "Republic of Korea"
   email            : "ytpark540@gmail.com"
   links:
