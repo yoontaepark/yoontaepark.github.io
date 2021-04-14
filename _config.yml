@@ -11,7 +11,7 @@ name                     : "ypark" # 맨 하단 이름 찍히는 영역
 description              : "데이터사이언스 공부하는 블로그" # Meta 태그에 들어가는 영역 
 url                      : "https://yoontaepark.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
-repository               : "7271kim/7271kim.github.com" # GitHub username/repo-name  
+repository               : "yoontaepark/yoontaepark.github.io" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "문송한 과학자 Blog" # 홈페이지 최 상탄에 들어갈 타이틀
