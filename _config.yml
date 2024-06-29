@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yoon Tae Park
-title: MS in Data Science @ NYU (Expected Graduation - May, 2023)
+title: Data Scientist @ Bestbuy | MS in Data Science Alumni @ NYU
 email: yp2201@nyu.edu
 # email_title: Email (Email title override)
 phone: (551) 280-6244
@@ -32,14 +32,21 @@ analytics:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/14014507.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  Hi my name is yoon. I'm a 2nd year MS student studying Data Science at NYU, and expected to graduate in May 2023.
-  I'm actively looking for Data Scientist opportunities after graduation.
+  Hello, my name is Yoon Tae Park. 
+  I'm currently a Data Scientist at Best Buy, where I specialize in Customer and Marketing Data Science. 
+  My expertise includes causal inference, marketing science, and customer analysis. 
+  I've successfully implemented uplift modeling to target customers in marketing campaigns, developed customer lifetime value (CLV) models, and conducted churn predictions. 
+  Additionally, I focus on digital data analysis to uncover user characteristics based on app experiences. 
+  Recently, I've been leveraging Large Language Models (LLMs) to identify new topics from NPS detractor survey data.
   
-  I've started my Data Science career by leading a machine learning project in Samsung as a finance manager.
-  As I wanted to learn more about data science, I'm now pursuing a master's degree in Data Science at NYU.
-  For this summer, I did a data science internship at Walmart Global Tech, and built a m/l pipeline that solved problems in e-commerce. 
-
-  My interests, broadly, are solving real world problems with data science, and I'm especially interested in NLP/NLU.
+  I hold a Master's degree in Data Science from NYU. 
+  My Data Science career began at Samsung, where I led a machine learning project as a Finance Manager. 
+  To further deepen my knowledge, I moved to the USA and completed my degree at NYU. 
+  During my studies, I interned at Walmart Global Tech, where I built a machine learning pipeline to address e-commerce challenges.
+  
+  My professional interests lie in solving real-world problems through data science, 
+  with a particular focus on causal inference and Natural Language Processing (NLP)/Natural Language Understanding (NLU).roblems in e-commerce. 
+  
   Please refer to Project section to find out more. 
 
   My current skill set includes:
