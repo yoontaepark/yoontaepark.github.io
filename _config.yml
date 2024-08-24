@@ -33,9 +33,9 @@ analytics:
 about_profile_image: /images/14014507.jpg 
 about_content: | # this will include new lines to allow paragraphs
   I am currently in Barcelona, Spain, attending the 2nd Workshop on Causal Inference and Machine Learning in Practice at ACM KDD 2024. 
-  My Oral Presentation is on August 26th at 11:20 AM, and I will be at the conference from August 25th to August 30th. 
-  (https://causal-machine-learning.github.io/kdd2024-workshop/)
-  If you're also attending, feel free to connect with me via LinkedIn or email.
+  <a href="https://causal-machine-learning.github.io/kdd2024-workshop/">My Oral Presentation</a> is on August 26th at 11:20 AM, and I will be at the conference from August 25th to August 30th.  
+  If you're also attending, feel free to connect with me via LinkedIn or email! 
+
   
   Hello, my name is Yoon Tae Park. 
   I'm currently a Data Scientist at Best Buy, where I specialize in Customer and Marketing Data Science. 
