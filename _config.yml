@@ -77,8 +77,7 @@ content:
         title:  Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration
         # link: https://github.com/yoontaepark/capstone-oyez/blob/main/reports/final/Capstone_final_group41_project68.pdf
         # link_text: Link) Automated Judicial Case Breifing 
-        # quote: >
-        #   Creating a model that extracts relevant information from extremely long legal documents
+        quote: >
         description: | # this will include new lines to allow paragraphs
           - Oral Presentation at the 2nd Workshop on Causal Inference and Machine Learning in Practice, ACM KDD 2024, August 2024
 
