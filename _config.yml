@@ -67,19 +67,19 @@ about_content: | # this will include new lines to allow paragraphs
 ### content section 
 content:
 
-  ### publication section
-  - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title:  Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration
-        # link: https://github.com/yoontaepark/capstone-oyez/blob/main/reports/final/Capstone_final_group41_project68.pdf
-        # link_text: Link) Automated Judicial Case Breifing 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          - Oral Presentation at the 2nd Workshop on Causal Inference and Machine Learning in Practice, ACM KDD 2024, August 2024
+  # ### publication section
+  # - title: Publications # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title:  Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration
+  #       # link: https://github.com/yoontaepark/capstone-oyez/blob/main/reports/final/Capstone_final_group41_project68.pdf
+  #       # link_text: Link) Automated Judicial Case Breifing 
+  #       quote: >
+  #       description: | # this will include new lines to allow paragraphs
+  #         - Oral Presentation at the 2nd Workshop on Causal Inference and Machine Learning in Practice, ACM KDD 2024, August 2024
 
 
   ### project section
