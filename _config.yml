@@ -32,6 +32,11 @@ analytics:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/14014507.jpg 
 about_content: | # this will include new lines to allow paragraphs
+  I am currently in Barcelona, Spain, attending the 2nd Workshop on Causal Inference and Machine Learning in Practice at ACM KDD 2024. 
+  My Oral Presentation is on August 26th at 11:20 AM, and I will be at the conference from August 25th to August 30th. 
+  (https://causal-machine-learning.github.io/kdd2024-workshop/)
+  If you're also attending, feel free to connect with me via LinkedIn or email.
+  
   Hello, my name is Yoon Tae Park. 
   I'm currently a Data Scientist at Best Buy, where I specialize in Customer and Marketing Data Science. 
   My expertise includes causal inference, marketing science, and customer analysis. 
@@ -57,10 +62,26 @@ about_content: | # this will include new lines to allow paragraphs
 
   If you are interested, please contact me via email or linkedin.  
 
-  Resume: <a href="https://drive.google.com/file/d/1Pf0DUR9aPR7F8X5m8-ByjU2vFpO_tE-2/view?usp=sharing">Resume_YoonTaePark.pdf</a>
+  Resume: <a href="https://drive.google.com/file/d/1iA-14PaiT8X2jSlkPyZRIcFO0EXF82zf/view?usp=drive_link">Resume_YoonTaePark.pdf</a>
 
 ### content section 
 content:
+
+  ### publication section
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title:  Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration
+        # link: https://github.com/yoontaepark/capstone-oyez/blob/main/reports/final/Capstone_final_group41_project68.pdf
+        # link_text: Link) Automated Judicial Case Breifing 
+        # quote: >
+        #   Creating a model that extracts relevant information from extremely long legal documents
+        description: | # this will include new lines to allow paragraphs
+          - Oral Presentation at the 2nd Workshop on Causal Inference and Machine Learning in Practice, ACM KDD 2024, August 2024
+
 
   ### project section
   - title: Projects # Title for the section
